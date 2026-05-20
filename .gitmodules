@@ -1,0 +1,3 @@
+[submodule "git/webflyx"]
+	path = git/webflyx
+	url = https://github.com/kaywelbeck/webflyx.git
